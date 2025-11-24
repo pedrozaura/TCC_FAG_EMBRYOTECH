@@ -3,7 +3,7 @@
 
 #include "config.h"
 
-// ⭐ MUTEX I2C
+//  MUTEX I2C
 SemaphoreHandle_t i2cMutex = NULL;
 
 // ========== CONFIGURAÇÕES DO SISTEMA ==========

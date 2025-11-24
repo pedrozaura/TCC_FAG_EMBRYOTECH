@@ -237,7 +237,6 @@ section {
   margin-bottom: 1rem;
 }
 
-/* Substitua todas as definições de .reading-item por esta: */
 .readings-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
